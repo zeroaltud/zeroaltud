@@ -33,8 +33,8 @@ Welcome to my little corner of the universe where I create, break, and rebuild c
 ---
 
 ## 🌐 Connect With Me
-- 🌍 Website: [zerogravity.wtf](https://zerogravity.wtf)  
-- 💬 Discord: **ZeroGravity** ([@1231962112893653143](https://discord.com/users/1231962112893653143))  
+- 🌍 Website: [zerogravity.wtf](https://phantomlink.network)  
+- 💬 Discord: **ZeroGravity** ([zerogravity.__.](https://discord.com/users/1339597114140917781))  
 - 📦 GitHub: You’re already here 😉  
 
 ---
