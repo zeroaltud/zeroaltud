@@ -13,16 +13,16 @@ Welcome to my little corner of the universe where I create, break, and rebuild c
 ---
 
 ## ⚡ Tech I Work With
-- **Languages**: C++, C#, Python, JavaScript, TypeScript  
-- **Systems**: Windows internals, Linux, Kernel/Usermode dev  
+- **Languages**: C++, C#, JavaScript, TypeScript  
+- **Systems**: Windows, Usermode dev  
 - **Web**: Node.js, Express, React, Tailwind, MongoDB  
-- **Other**: Game servers, Discord bots, Cloud services  
+- **Other**: Game servers, Discord bots, Cloud services, backends and more  
 
 ---
 
 ## 🌍 Featured Projects
 🔹 [cobalt ssl](https://github.com/zeroaltud/cobalt---console) – A customized version of cobalt for og fortnite   
-🔹 [simple ami spoofer](https://github.com/zeroaltud/Perm-spoofer-simple) – something i made idk why or when
+🔹 [simple ami spoofer](https://github.com/zeroaltud/Perm-spoofer-simple) – something i made idk why or when  
 
 ---
 
@@ -34,7 +34,8 @@ Welcome to my little corner of the universe where I create, break, and rebuild c
 
 ## 🌐 Connect With Me
 - 🌍 Website: [zerogravity.wtf](https://phantomlink.network)  
-- 💬 Discord: **ZeroGravity** ([zerogravity.__.](https://discord.com/users/1339597114140917781))  
+- 💬 Discord Profile: **ZeroGravity** ([zerogravity.__.](https://discord.com/users/1339597114140917781))  
+- 🛸 Discord Server: [Exploiter Heaven](https://discord.gg/exploiterheaven)  
 - 📦 GitHub: You’re already here 😉  
 
 ---
