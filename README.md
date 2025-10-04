@@ -21,9 +21,8 @@ Welcome to my little corner of the universe where I create, break, and rebuild c
 ---
 
 ## 🌍 Featured Projects
-🔹 [ZeroGravity Chat](#) – A Discord-like chat platform built with MongoDB & custom CSS  
-🔹 [BasHack](#) – Experimental work with memory manipulation & process interactions  
-🔹 [ZeroGravity Bot](#) – A community Discord bot with daily rewards, uploads & more  
+🔹 [ZeroGravity Chat](https://github.com/zeroaltud/cobalt---console) – A customized version of cobalt for og fortnite   
+🔹 [BasHack](https://github.com/zeroaltud/Perm-spoofer-simple) – something i made idk why or when
 
 ---
 
