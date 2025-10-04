@@ -21,8 +21,8 @@ Welcome to my little corner of the universe where I create, break, and rebuild c
 ---
 
 ## 🌍 Featured Projects
-🔹 [ZeroGravity Chat](https://github.com/zeroaltud/cobalt---console) – A customized version of cobalt for og fortnite   
-🔹 [BasHack](https://github.com/zeroaltud/Perm-spoofer-simple) – something i made idk why or when
+🔹 [cobalt ssl](https://github.com/zeroaltud/cobalt---console) – A customized version of cobalt for og fortnite   
+🔹 [simple ami spoofer](https://github.com/zeroaltud/Perm-spoofer-simple) – something i made idk why or when
 
 ---
 
