@@ -28,8 +28,8 @@ Welcome to my little corner of the universe where I create, break, and rebuild c
 ---
 
 ## 📊 GitHub Stats
-![ZeroGravity's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeroGravity&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroGravity&layout=compact&theme=tokyonight)
+![ZeroGravity's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeroaltud&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeroaltud&layout=compact&theme=tokyonight)
 
 ---
 
